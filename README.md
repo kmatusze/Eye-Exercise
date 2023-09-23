@@ -1,5 +1,5 @@
 # Eye-Exercise
-This exercise contains mouse movement code to update the position of the "eye" elements displayed on DOM. 
+This ***Eye-Exercise*** contains mouse movement code to update the position of the "eye" or "eye" elements displayed on DOM. A CSS file is included with the styling of the elements on the DOM. 
 
 **How to Run:** Use the starter code to help you get up and running. The starter code for this exercise, the mouse movement event is used to move the position of the "eye" element. Walk through the JS File to see how the code works and try adding additional "eye" elements to follow the mouse position on the DOM using mouse events. You really have two options, one eye or two eyes included in this starter code package. 
 
